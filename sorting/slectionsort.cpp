@@ -34,6 +34,5 @@ int main(){
     {
        std::cout<<arr[i]<<"\n";
     }
-    
-    
+    return 0; 
 }
